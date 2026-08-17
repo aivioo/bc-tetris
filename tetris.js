@@ -8,8 +8,7 @@ class Tetris {
         // Game constants
         this.BOARD_WIDTH = 10;
         this.BOARD_HEIGHT = 20;
-        this.BLOCK_SIZE = 30;
-        
+        this.BLOCK_SIZE = 22;        
         // Game state
         this.board = [];
         this.currentPiece = null;
